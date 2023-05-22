@@ -34,7 +34,7 @@ app.use(
     origin: [
       'http://localhost:4000',
       'http://localhost:5173',
-      'https://entscape-frontend.onrender.com',
+      'https://ent-scape.onrender.com',
     ],
     credentials: true,
   })
